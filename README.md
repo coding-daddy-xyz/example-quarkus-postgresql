@@ -1,4 +1,4 @@
-# Quarkus REST API Example
+# Quarkus PostgreSQL Example
 
 This example is the support code for my blog post [Quarkus PostgreSQL Example](https://www.coding-daddy.xyz/node/45)
 
